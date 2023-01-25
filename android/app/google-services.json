@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "836761278037",
+    "project_id": "dedumpster-4e4f6",
+    "storage_bucket": "dedumpster-4e4f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836761278037:android:f8018585dd8eab26b066dc",
+        "android_client_info": {
+          "package_name": "com.example.waste_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836761278037-r6vetqph43je36nvlq82vr2r2db4cmdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9VSSZGa5lbZtkhPoT4bD9Dkt3Wyrr0Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836761278037-r6vetqph43je36nvlq82vr2r2db4cmdo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836761278037-vk40sc7phr9pd6m39oihhm8ngf0hd33c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wasteManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
